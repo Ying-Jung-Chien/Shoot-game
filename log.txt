@@ -1,0 +1,418 @@
+There are total 16 supported mouse buttons
+Allegro5 initialized
+Game begin
+Change scene from 0 to 1
+Game initialized
+Game start event loop
+Change scene from 1 to 2
+stop audio (bgm)
+enemies[1].life:2
+enemies[1].life:1
+enemies[2].life:2
+enemies[1].life:0
+enemies[1].heart:1
+enemies[2].life:1
+plane.life:2
+enemies[0].life:2
+plane.life:1
+enemies[1].life:2
+plane.life:0
+plane.heart:2
+enemies[0].life:1
+enemies[0].life:0
+enemies[0].heart:1
+enemies[0].life:2
+plane.life:2
+plane.life:1
+enemies[2].life:0
+enemies[2].heart:1
+enemies[0].life:1
+plane.life:0
+plane.heart:1
+plane.life:2
+plane.life:1
+enemies[1].life:1
+enemies[1].life:0
+enemies[1].heart:0
+enemy is hidden
+enemies[2].life:2
+enemies[2].life:1
+plane.life:0
+plane.heart:0
+plane is hidden
+Change scene from 2 to 4
+stop audio (bgm)
+stop audio (bgm)
+shootenemies:16
+number:65
+planelife:0.000000
+playtime:34.644719
+score:415
+Change scene from 0 to 1
+Change scene from 1 to 3
+stop audio (bgm)
+Change scene from 3 to 2
+stop audio (bgm)
+stop audio (bgm)
+stop audio (bgm)
+enemies[0].life:2
+enemies[0].life:1
+enemies[0].life:0
+enemies[0].heart:1
+enemies[0].life:2
+enemies[0].life:1
+plane.life:2
+enemies[0].life:0
+enemies[0].heart:0
+enemy is hidden
+enemies[2].life:2
+enemies[2].life:1
+enemies[2].life:0
+enemies[2].heart:1
+enemies[2].life:2
+plane.life:1
+enemies[2].life:1
+enemies[2].life:0
+enemies[2].heart:0
+enemy is hidden
+enemies[1].life:2
+enemies[1].life:1
+enemies[1].life:0
+enemies[1].heart:1
+enemies[1].life:2
+enemies[1].life:1
+enemies[1].life:0
+enemies[1].heart:0
+enemy is hidden
+Change scene from 2 to 5
+stop audio (bgm)
+stop audio (bgm)
+boss.life:9
+boss.life:8
+plane.life:-1
+plane.heart:2
+plane.life:0
+plane.heart:1
+boss.life:7
+plane.life:1
+boss.life:6
+boss.life:5
+boss.life:4
+boss.life:3
+recall
+boss.life:2
+plane.life:-1
+plane.heart:0
+plane is hidden
+Change scene from 2 to 4
+stop audio (bgm)
+stop audio (bgm)
+shootenemies:26
+number:143
+planelife:-1.000000
+playtime:41.144694
+score:370
+Change scene from 0 to 2
+enemies[1].life:2
+enemies[0].life:2
+enemies[1].life:1
+enemies[2].life:2
+enemies[1].life:0
+enemies[1].heart:1
+enemies[2].life:1
+plane.life:2
+enemies[0].life:1
+enemies[0].life:0
+enemies[0].heart:1
+enemies[0].life:2
+enemies[0].life:1
+enemies[0].life:0
+enemies[0].heart:0
+enemy is hidden
+enemies[1].life:2
+enemies[2].life:0
+enemies[2].heart:1
+enemies[1].life:1
+enemies[2].life:2
+enemies[1].life:0
+enemies[1].heart:0
+enemy is hidden
+enemies[2].life:1
+enemies[2].life:0
+enemies[2].heart:0
+enemy is hidden
+Change scene from 2 to 5
+stop audio (bgm)
+stop audio (bgm)
+boss.life:9
+plane.life:0
+plane.heart:2
+boss.life:8
+plane.life:1
+boss.life:7
+plane.life:-1
+plane.heart:1
+boss.life:6
+boss.life:5
+boss.life:4
+boss.life:3
+recall
+boss.life:2
+boss.life:1
+boss.life:0
+boss.heart:0
+boss is hidden
+plane.life:1
+plane.life:0
+plane.heart:0
+plane is hidden
+Change scene from 2 to 4
+stop audio (bgm)
+stop audio (bgm)
+shootenemies:28
+number:146
+planelife:0.000000
+playtime:40.298486
+score:382
+Change scene from 0 to 2
+plane.life:2
+plane.life:1
+enemies[0].life:2
+enemies[2].life:2
+enemies[0].life:1
+enemies[0].life:0
+enemies[0].heart:1
+enemies[2].life:1
+enemies[1].life:2
+plane.life:0
+plane.heart:2
+enemies[2].life:0
+enemies[2].heart:1
+enemies[0].life:2
+enemies[2].life:2
+enemies[0].life:1
+enemies[0].life:0
+enemies[0].heart:0
+enemy is hidden
+enemies[2].life:1
+enemies[1].life:1
+enemies[1].life:0
+enemies[1].heart:1
+enemies[1].life:2
+enemies[2].life:0
+enemies[2].heart:0
+enemy is hidden
+plane.life:2
+enemies[1].life:1
+enemies[1].life:0
+enemies[1].heart:0
+enemy is hidden
+Change scene from 2 to 5
+stop audio (bgm)
+stop audio (bgm)
+boss.life:9
+plane.life:0
+plane.heart:1
+boss.life:8
+plane.life:1
+boss.life:7
+boss.life:6
+boss.life:5
+boss.life:4
+plane.life:-1
+plane.heart:0
+plane is hidden
+Change scene from 2 to 4
+stop audio (bgm)
+stop audio (bgm)
+shootenemies:24
+number:159
+planelife:-1.000000
+playtime:39.367455
+score:295
+Change scene from 0 to 2
+enemies[0].life:2
+enemies[0].life:1
+enemies[0].life:0
+enemies[0].heart:1
+enemies[2].life:2
+enemies[2].life:1
+enemies[2].life:0
+enemies[2].heart:1
+enemies[1].life:2
+enemies[1].life:1
+enemies[0].life:2
+enemies[1].life:0
+enemies[1].heart:1
+plane.life:2
+enemies[1].life:2
+enemies[0].life:1
+plane.life:1
+enemies[1].life:1
+enemies[2].life:2
+enemies[0].life:0
+enemies[0].heart:0
+enemy is hidden
+enemies[1].life:0
+enemies[1].heart:0
+enemy is hidden
+enemies[2].life:1
+enemies[2].life:0
+enemies[2].heart:0
+enemy is hidden
+Change scene from 2 to 5
+stop audio (bgm)
+stop audio (bgm)
+boss.life:9
+boss.life:8
+plane.life:-1
+plane.heart:2
+boss.life:7
+boss.life:6
+boss.life:5
+plane.life:0
+plane.heart:1
+boss.life:4
+plane.life:1
+boss.life:3
+recall
+boss.life:2
+boss.life:1
+plane.life:-1
+plane.heart:0
+plane is hidden
+Change scene from 2 to 4
+stop audio (bgm)
+stop audio (bgm)
+shootenemies:27
+number:160
+planelife:-1.000000
+playtime:39.608162
+score:316
+Change scene from 0 to 2
+enemies[1].life:2
+enemies[2].life:2
+enemies[0].life:2
+enemies[0].life:1
+enemies[2].life:1
+enemies[0].life:0
+enemies[0].heart:1
+enemies[0].life:2
+plane.life:2
+enemies[0].life:1
+enemies[2].life:0
+enemies[2].heart:1
+enemies[1].life:1
+enemies[1].life:0
+enemies[1].heart:1
+enemies[2].life:2
+enemies[0].life:0
+enemies[0].heart:0
+enemy is hidden
+enemies[2].life:1
+enemies[2].life:0
+enemies[2].heart:0
+enemy is hidden
+enemies[1].life:2
+enemies[1].life:1
+enemies[1].life:0
+enemies[1].heart:0
+enemy is hidden
+Change scene from 2 to 5
+stop audio (bgm)
+stop audio (bgm)
+boss.life:9
+boss.life:8
+boss.life:7
+boss.life:6
+plane.life:0
+plane.heart:2
+boss.life:5
+boss.life:4
+boss.life:3
+recall
+boss.life:2
+boss.life:1
+enemies[0].life:2
+plane.life:1
+enemies[0].life:1
+enemies[0].life:0
+enemies[0].heart:0
+enemy is hidden
+boss.life:0
+boss.heart:0
+boss is hidden
+enemies[1].life:2
+enemies[1].life:1
+plane.life:0
+plane.heart:1
+Change scene from 2 to 4
+stop audio (bgm)
+stop audio (bgm)
+shootenemies:33
+number:231
+planelife:3.000000
+playtime:60.014702
+score:420
+Change scene from 0 to 2
+enemies[1].life:2
+enemies[2].life:2
+plane.life:2
+plane.life:1
+enemies[1].life:1
+enemies[0].life:2
+enemies[0].life:1
+enemies[1].life:0
+enemies[1].heart:1
+enemies[0].life:0
+enemies[0].heart:1
+enemies[0].life:2
+enemies[1].life:2
+plane.life:0
+plane.heart:2
+enemies[0].life:1
+enemies[2].life:1
+enemies[0].life:0
+enemies[0].heart:0
+enemy is hidden
+enemies[1].life:1
+plane.life:2
+enemies[1].life:0
+enemies[1].heart:0
+enemy is hidden
+enemies[2].life:0
+enemies[2].heart:1
+plane.life:1
+enemies[2].life:2
+enemies[2].life:1
+enemies[2].life:0
+enemies[2].heart:0
+enemy is hidden
+Change scene from 2 to 5
+stop audio (bgm)
+stop audio (bgm)
+boss.life:9
+boss.life:8
+boss.life:7
+plane.life:-1
+plane.heart:1
+boss.life:6
+boss.life:5
+boss.life:4
+boss.life:3
+recall
+boss.life:2
+plane.life:1
+enemies[0].life:2
+boss.life:1
+plane.life:0
+plane.heart:0
+plane is hidden
+Change scene from 2 to 4
+stop audio (bgm)
+stop audio (bgm)
+shootenemies:28
+number:211
+planelife:0.000000
+playtime:48.302519
+score:313

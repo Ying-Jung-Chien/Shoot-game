@@ -1,0 +1,73 @@
+ALLEGRO_DISPLAY *game_display;
+ALLEGRO_FONT *font;
+ALLEGRO_BITMAP  *image;
+ALLEGRO_EVENT_QUEUE *event_queue;
+ALLEGRO_TIMER* game_update_timer;
+
+
+game_display = al_create_display(SCREEN_W, SCREEN_H);
+if(!game_display) 
+      game_abort("failed to create display!");
+
+font=al_load_ttf_font(char const *filename, int size, int flags);
+if (!font)
+        game_abort("failed to load font: pirulen.ttf");
+
+image = al_load_bitmap("32largebugs.jpg");
+    if (!image)
+        game_abort("failed to load image: 32largebugs.jpg");
+
+event_queue = al_create_event_queue();
+if (!game_event_queue)
+        game_abort("failed to create event queue");
+
+
+al_destroy_display(game_display);
+al_destroy_bitmap(img);
+al_destroy_font(font);
+al_destroy_timer(game_update_timer);
+al_destroy_event_queue(game_event_queue);
+al_clear_to_color(al_map_rgb(100, 100, 100));
+al_flip_display();
+al_register_event_source(event_queue, al_get_display_event_source(display));
+al_register_event_source(game_event_queue, al_get_keyboard_event_source());
+al_register_event_source(game_event_queue, al_get_timer_event_source(game_update_timer));
+al_register_event_source(game_event_queue, al_get_mouse_event_source());
+al_wait_for_event(ALLEGRO_EVENT_QUEUE *queue, ALLEGRO_EVENT *ret_event);
+al_install_keyboard();
+al_install_mouse();
+al_start_timer(game_update_timer);
+
+
+#include <allegro5/allegro_primitives.h>
+#include <allegro5/allegro_image.h>
+#include <allegro5/allegro_font.h>
+#include <allegro5/allegro_ttf.h>
+
+
+if (!al_init_primitives_addon())
+        game_abort("failed to initialize primitives add-on");
+if (!al_init_font_addon(void))
+        game_abort("failed to initialize primitives add-on");
+if (!al_init_ttf_addon(void))
+        game_abort("failed to initialize primitives add-on");
+if (!al_init_image_addon(void))
+        game_abort("failed to initialize primitives add-on");
+if (!al_install_keyboard())
+        game_abort("failed to install keyboard");
+if (!al_install_mouse())
+        game_abort("failed to install mouse");
+
+
+
+al_draw_rectangle(float x1, float y1, float x2, float y2,
+   ALLEGRO_COLOR color, float thickness);
+
+al_draw_text(const ALLEGRO_FONT *font,
+   ALLEGRO_COLOR color, float x, float y, int flags,
+   char const *text);
+
+al_draw_bitmap(ALLEGRO_BITMAP *bitmap, float dx, float dy, int flags);
+
+
+
